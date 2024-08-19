@@ -1,5 +1,3 @@
-# **PGetting Started** 
-
 ## Running the Application
 1. Clone the repository or download the project files.
 2. Open the index.html file in your web browser
