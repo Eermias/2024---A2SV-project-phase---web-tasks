@@ -1,3 +1,19 @@
+## Image1: App opened in browser
+![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/1.%20Open%20in%20Browser.jpg)
+
+## Image2: Add task
+![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/2.%20Add%20Task.jpg)
+
+## Image3: App opened in browser
+![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/1.%20Open%20in%20Browser.jpg)
+
+## Image4: Add task
+![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/2.%20Add%20Task.jpg)
+
+## Image5: App opened in browser
+![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/1.%20Open%20in%20Browser.jpg)
+
+
 ## Running the Application
 1. Clone the repository or download the project files.
 2. Open the index.html file in your web browser
