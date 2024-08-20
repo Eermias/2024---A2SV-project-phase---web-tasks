@@ -1,3 +1,5 @@
+## "My PC's screenshot feature dosen't work right now, so below are picture taken using a mobile phone"
+
 ## Image1: App opened in browser
 ![app opened in browser](https://github.com/Eermias/2024---A2SV-project-phase---web-tasks/blob/main/Task%20-%201/images/1.%20Open%20in%20Browser.jpg)
 
